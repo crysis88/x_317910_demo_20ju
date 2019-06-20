@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><unload unload_date="2019-06-20 09:56:24">
+<sys_remote_update_set action="INSERT_OR_UPDATE">
+<application display_value="Demo_20June">bd0cd91bdb0233002c232737489619c9</application>
+<application_name>Demo_20June</application_name>
+<application_scope>x_317910_demo_20ju</application_scope>
+<application_version>1.0.0</application_version>
+<collisions/>
+<commit_date/>
+<deleted/>
+<description>Automatically created by the system</description>
+<inserted/>
+<name>Default</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_base_update_set display_value=""/>
+<remote_parent_id/>
+<remote_sys_id>420cd953db4233002c2327374896199a</remote_sys_id>
+<state>loaded</state>
+<summary/>
+<sys_class_name>sys_remote_update_set</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-06-20 09:56:22</sys_created_on>
+<sys_id>ba4c9d53db4233002c23273748961961</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-06-20 09:56:22</sys_updated_on>
+<update_set display_value=""/>
+<update_source display_value=""/>
+<updated/>
+</sys_remote_update_set>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo_20June">bd0cd91bdb0233002c232737489619c9</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_bd0cd91bdb0233002c232737489619c9</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app"><sys_app action="INSERT_OR_UPDATE"><active>true</active><enforce_license>none</enforce_license><js_level>helsinki_es5</js_level><licensable>true</licensable><license_category>none</license_category><license_model>none</license_model><logo/><menu display_value="Demo_20June">060c9953db4233002c232737489619c8</menu><name>Demo_20June</name><private>false</private><restrict_table_access>false</restrict_table_access><runtime_access_tracking>permissive</runtime_access_tracking><scope>x_317910_demo_20ju</scope><scoped_administration>false</scoped_administration><short_description/><source>x_317910_demo_20ju</source><store_correlation_id/><store_url/><sys_class_name>sys_app</sys_class_name><sys_code/><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-20 09:55:13</sys_created_on><sys_id>bd0cd91bdb0233002c232737489619c9</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-20 09:55:13</sys_updated_on><template/><trackable>true</trackable><user_role display_value="x_317910_demo_20ju.user" name="x_317910_demo_20ju.user">4e0c9953db4233002c232737489619cc</user_role><vendor/><vendor_prefix/><version>1.0.0</version></sys_app></record_update>]]></payload>
+<payload_hash>1459990033</payload_hash>
+<remote_update_set display_value="Default">ba4c9d53db4233002c23273748961961</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-06-20 09:56:22</sys_created_on>
+<sys_id>364c9d53db4233002c23273748961962</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b744fc7160000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-06-20 09:56:22</sys_updated_on>
+<table/>
+<target_name>Demo_20June</target_name>
+<type>Custom Application</type>
+<update_domain>global</update_domain>
+<update_guid>020cd953cd423300fff7ffe2241edc9c</update_guid>
+<update_guid_history>020cd953cd423300fff7ffe2241edc9c:1459990033</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo_20June">bd0cd91bdb0233002c232737489619c9</application>
+<category>customer</category>
+<comments/>
+<name>sys_app_application_060c9953db4233002c232737489619c8</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category/><description/><device_type>browser</device_type><hint/><name>Demo_20June</name><order/><roles>x_317910_demo_20ju.user</roles><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-20 09:55:13</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>060c9953db4233002c232737489619c8</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Demo_20June</sys_name><sys_overrides/><sys_package display_value="Demo_20June" source="x_317910_demo_20ju">bd0cd91bdb0233002c232737489619c9</sys_package><sys_policy/><sys_scope display_value="Demo_20June">bd0cd91bdb0233002c232737489619c9</sys_scope><sys_update_name>sys_app_application_060c9953db4233002c232737489619c8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-20 09:55:13</sys_updated_on><title>Demo_20June</title><view_name/></sys_app_application></record_update>]]></payload>
+<payload_hash>-1918662749</payload_hash>
+<remote_update_set display_value="Default">ba4c9d53db4233002c23273748961961</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-06-20 09:56:22</sys_created_on>
+<sys_id>7e4c9d53db4233002c23273748961961</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b744fc7400000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-06-20 09:56:22</sys_updated_on>
+<table/>
+<target_name>Demo_20June</target_name>
+<type>Application Menu</type>
+<update_domain>global</update_domain>
+<update_guid>860cd9533b4233004969f9665689449f</update_guid>
+<update_guid_history>860cd9533b4233004969f9665689449f:-1918662749,820c9953884233007bcc590b805e78cb:-529207983</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+<sys_update_xml action="INSERT_OR_UPDATE">
+<action>INSERT_OR_UPDATE</action>
+<application display_value="Demo_20June">bd0cd91bdb0233002c232737489619c9</application>
+<category>customer</category>
+<comments/>
+<name>sys_user_role_4e0c9953db4233002c232737489619cc</name>
+<payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_317910_demo_20ju.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2019-06-20 09:55:13</sys_created_on><sys_id>4e0c9953db4233002c232737489619cc</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_317910_demo_20ju.user</sys_name><sys_package display_value="">bd0cd91bdb0233002c232737489619c9</sys_package><sys_policy/><sys_scope display_value="">bd0cd91bdb0233002c232737489619c9</sys_scope><sys_update_name>sys_user_role_4e0c9953db4233002c232737489619cc</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2019-06-20 09:55:13</sys_updated_on></sys_user_role></record_update>]]></payload>
+<payload_hash>1797607547</payload_hash>
+<remote_update_set display_value="Default">ba4c9d53db4233002c23273748961961</remote_update_set>
+<replace_on_upgrade>false</replace_on_upgrade>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2019-06-20 09:56:22</sys_created_on>
+<sys_id>f64c9d53db4233002c23273748961962</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_recorded_at>16b744fc67a0000001</sys_recorded_at>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2019-06-20 09:56:22</sys_updated_on>
+<table/>
+<target_name>x_317910_demo_20ju.user</target_name>
+<type>Role</type>
+<update_domain>global</update_domain>
+<update_guid>c60cd953a04233000d04a65a82b74296</update_guid>
+<update_guid_history>c60cd953a04233000d04a65a82b74296:1797607547</update_guid_history>
+<update_set display_value=""/>
+<view/>
+</sys_update_xml>
+</unload>
